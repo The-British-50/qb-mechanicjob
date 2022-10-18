@@ -8,7 +8,7 @@ Config.Targets = {}
 Config.AttachedVehicle = nil
 
 Config.AuthorizedIds = {
-    -- "insertcitizenidhere",
+    "IBA70589", "CYT99153", -- knightmite & Atatrax
 }
 
 Config.MaxStatusValues = {
